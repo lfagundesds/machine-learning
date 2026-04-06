@@ -21,3 +21,11 @@ The [Lab for Linear Regression](Predicting_Real_Estate_Prices_With_Linear_Regres
 The model accuracy has a score of **98.29%** against the Train data, and **77.84%** against the Test data.
 
 ![Actual Vs Predicted Prices](images/linear_regression_accuracy.png)
+
+## Neural Networks
+
+The [Lab for Neural Networks](Handwritten_Digit_Recognition_With_Neural_Networks.ipynb) uses a Neural Network to perform handwritten digit recognition.
+
+### Examples
+
+![Examples of correct predictions](images/handwritten_digit_recognition.png)

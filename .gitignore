@@ -96,7 +96,6 @@ cython_debug/
 *.sqlite
 *.pkl
 *.joblib
-*.npy
 *.npz
 images/k_means_image_sample_compressed.jpg
 
