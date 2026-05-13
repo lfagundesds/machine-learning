@@ -1,6 +1,6 @@
-# Machine Learning
+# Machine Learning Labs
 
-Labs related to everything **Machine Learning** and it contains Labs for different types of ML, like Linear Regression, K-Means, etc.
+Labs related to everything **Machine Learning** containing Labs for different types of ML, like Linear Regression, K-Means, etc.
 
 ## K-Means
 
